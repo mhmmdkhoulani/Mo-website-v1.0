@@ -287,7 +287,7 @@ body {
 }
 .hero p {
   color: #8892b0;
-  width: 500px;
+  max-width: 500px;
   font-size: 17px;
   margin-top: 50px;
 }
@@ -820,7 +820,7 @@ body {
   }
 
   .container {
-    padding: 20px 0;
+    padding: 19px 25px;
   }
 
   .hero .light, .hero .dark {
