@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Mo-website-v1.0/static/css/main.680f7d94.chunk.css",
+    "main.css": "/Mo-website-v1.0/static/css/main.9007c7b6.chunk.css",
     "main.js": "/Mo-website-v1.0/static/js/main.e8b677cc.chunk.js",
     "main.js.map": "/Mo-website-v1.0/static/js/main.e8b677cc.chunk.js.map",
     "runtime-main.js": "/Mo-website-v1.0/static/js/runtime-main.94040b3f.js",
@@ -9,10 +9,10 @@
     "static/js/2.051ec48f.chunk.js": "/Mo-website-v1.0/static/js/2.051ec48f.chunk.js",
     "static/js/2.051ec48f.chunk.js.map": "/Mo-website-v1.0/static/js/2.051ec48f.chunk.js.map",
     "index.html": "/Mo-website-v1.0/index.html",
-    "precache-manifest.84578f615598498ffedce4799c851e1d.js": "/Mo-website-v1.0/precache-manifest.84578f615598498ffedce4799c851e1d.js",
+    "precache-manifest.b8df97cc4182aee55f521b8b539fffb9.js": "/Mo-website-v1.0/precache-manifest.b8df97cc4182aee55f521b8b539fffb9.js",
     "service-worker.js": "/Mo-website-v1.0/service-worker.js",
     "static/css/2.64930493.chunk.css.map": "/Mo-website-v1.0/static/css/2.64930493.chunk.css.map",
-    "static/css/main.680f7d94.chunk.css.map": "/Mo-website-v1.0/static/css/main.680f7d94.chunk.css.map",
+    "static/css/main.9007c7b6.chunk.css.map": "/Mo-website-v1.0/static/css/main.9007c7b6.chunk.css.map",
     "static/js/2.051ec48f.chunk.js.LICENSE.txt": "/Mo-website-v1.0/static/js/2.051ec48f.chunk.js.LICENSE.txt",
     "static/media/job-1.png": "/Mo-website-v1.0/static/media/job-1.885bfb41.png",
     "static/media/logo.svg": "/Mo-website-v1.0/static/media/logo.af40a36a.svg",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.94040b3f.js",
     "static/css/2.64930493.chunk.css",
     "static/js/2.051ec48f.chunk.js",
-    "static/css/main.680f7d94.chunk.css",
+    "static/css/main.9007c7b6.chunk.css",
     "static/js/main.e8b677cc.chunk.js"
   ]
 }
