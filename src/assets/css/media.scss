@@ -1,0 +1,79 @@
+@media only screen and (max-width: 1200px ) {
+    .about{
+        padding: 150px 0px;
+    }
+    
+}
+
+@media only screen and (max-width : 999px) {
+    .navbar-style {
+        display: none;
+    }
+    .nav-mobile-larg {
+        display: block;
+    }
+    .nav-mobile {
+        display: block;
+        z-index: 100;
+    }
+    .overlay{
+        display: none;
+    }
+    .container{
+        padding: 20px 0;
+    }
+   .hero .light, .hero .dark{
+       font-size: 60px;
+   }
+
+   .about{
+       padding:  150px 0;
+   }
+   .about .image-container .img-filter,  .about .image-container .back-border{
+       width: 280px;
+       height: 280px;
+   }
+   .about .image-container {
+       padding-left: 0;
+   }
+   .about .image-container .back-border {
+    top: 30px;
+    left: 30px;
+   }
+   .about .image-container:hover .back-border{
+    top: 10px;
+    left: 10px; 
+   }
+   .hero{
+       padding-bottom: 70px;
+   }
+   .about, .work-history, .portfolio, .projects, .contact{
+       padding: 70px 0;
+   }
+}
+
+
+@media only screen and (max-width : 800px) {
+    .portfolio .text {
+        grid-column: 1/13 !important;
+        grid-row: 1/-1;
+        position: relative;
+        background: transparentize($color: #0a192f, $amount: 0.2);
+        height: 100%;
+        text-align: center !important;
+        
+        p {
+            background-color: transparent !important;
+        }
+        ul {
+            justify-content: center !important;
+            padding-left: 0 !important;
+        }
+    }
+    .portfolio .image{
+        grid-column: 1/13 !important;
+        .bg-layer {
+            background-color: transparent !important;
+        }
+    }
+}
