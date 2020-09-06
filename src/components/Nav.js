@@ -89,7 +89,7 @@ const Navbar = () => {
                                 <a className="nav-link" href="#contact">Contact</a>
                             </li>
                             <li className="nav-item resume-btn">
-                                <a className="nav-link" href="#">Resume </a>
+                                <a className="nav-link" href="https://bit.ly/32Yu9pT">Resume </a>
                             </li>
                         </ul>
                     </div>
@@ -120,7 +120,7 @@ const Navbar = () => {
                     <div className="item-mobile" data-before-content="2"><a href="#work-history">Experience</a></div>
                     <div className="item-mobile" data-before-content="3"><a href="#portfolio">Work</a></div>
                     <div className="item-mobile" data-before-content="4"><a href="#contact">Contetn</a></div>
-                    <div className=" "><a  className="resume-btn" href="#">Resume</a></div>
+                    <div className=" "><a className="resume-btn" href="https://bit.ly/32Yu9pT">Resume</a></div>
                    
                 </div>
         </div>

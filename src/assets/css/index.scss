@@ -646,6 +646,18 @@ body {
                     color: $white;
                     margin: 22px 0;
                     font-weight: 700;
+                    a{
+                        color: $white;
+                        text-decoration: none;
+                        &:hover{
+                            color: $main_color;
+                            transition: all ease-in-out 0.5s ;
+                            -webkit-transition: all ease-in-out 0.5s ;
+                            -moz-transition: all ease-in-out 0.5s ;
+                            -ms-transition: all ease-in-out 0.5s ;
+                            -o-transition: all ease-in-out 0.5s ;
+                        }
+                    }
                 }
                 p{
                     color: $light_slet;
@@ -685,6 +697,7 @@ body {
         color: $white;
         font-family: $roboto;
         font-weight: 600;
+        
     }
     .archive {
         color: $main_color;
@@ -752,6 +765,18 @@ body {
             font-weight: 600;
             font-family: $roboto;
             margin: 13px 0;
+            a{
+                color: $white;
+                text-decoration: none;
+                &:hover{
+                    color: $main_color;
+                    transition: all ease-in-out 0.5s ;
+                    -webkit-transition: all ease-in-out 0.5s ;
+                    -moz-transition: all ease-in-out 0.5s ;
+                    -ms-transition: all ease-in-out 0.5s ;
+                    -o-transition: all ease-in-out 0.5s ;
+                }
+            }
         }
         p{
             color: $light_slet;

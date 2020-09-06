@@ -612,6 +612,18 @@ body {
   margin: 22px 0;
   font-weight: 700;
 }
+.portfolio .content .cont-container .text h4 a {
+  color: #e6f1ff;
+  text-decoration: none;
+}
+.portfolio .content .cont-container .text h4 a:hover {
+  color: #64ffda;
+  transition: all ease-in-out 0.5s;
+  -webkit-transition: all ease-in-out 0.5s;
+  -moz-transition: all ease-in-out 0.5s;
+  -ms-transition: all ease-in-out 0.5s;
+  -o-transition: all ease-in-out 0.5s;
+}
 .portfolio .content .cont-container .text p {
   color: #a8b2d1;
   background-color: #172a45;
@@ -714,6 +726,18 @@ body {
   font-weight: 600;
   font-family: "Roboto", sans-serif;
   margin: 13px 0;
+}
+.projects .text h4 a {
+  color: #e6f1ff;
+  text-decoration: none;
+}
+.projects .text h4 a:hover {
+  color: #64ffda;
+  transition: all ease-in-out 0.5s;
+  -webkit-transition: all ease-in-out 0.5s;
+  -moz-transition: all ease-in-out 0.5s;
+  -ms-transition: all ease-in-out 0.5s;
+  -o-transition: all ease-in-out 0.5s;
 }
 .projects .text p {
   color: #a8b2d1;
@@ -856,6 +880,10 @@ body {
 
   .about, .work-history, .portfolio, .projects, .contact {
     padding: 70px 0;
+  }
+
+  .heading:after {
+    width: 0px;
   }
 }
 @media only screen and (max-width: 800px) {

@@ -50,6 +50,9 @@
    .about, .work-history, .portfolio, .projects, .contact{
        padding: 70px 0;
    }
+   .heading:after{
+       width: 0px;
+   }
 }
 
 
